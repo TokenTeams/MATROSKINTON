@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru-RU">
 <head>
     <meta name="viewport"
@@ -87,7 +86,7 @@
          srcset="//i.siteapi.org/f0M8Rit9pdhLhd50mLid_9klVhM=/0x0:256x256/fit-in/215x128/s2.siteapi.org/e6a8abe8c84740c/logo/2h6ahwblbg00o4wwowo44w4kwgsgws 1x, //i.siteapi.org/a_6XU8PD_mH_ZGs7DCHXAWDtoWU=/0x0:256x256/fit-in/430x256/s2.siteapi.org/e6a8abe8c84740c/logo/2h6ahwblbg00o4wwowo44w4kwgsgws 2x" 
      /></picture></a></div></section></div></div></div></div></div></div></div></div></header>                
         <div id="content-anchor" class="site-content small-12">
-            <div class="site-background" style="background-color: #B8BED2; background-image: url(//i.siteapi.org/4vel0ppQv_pm47TlDMclk6ONovk=/s2.siteapi.org/1665f7d36686429/background/gj2dvffcm3cc44k8ok4kosc408wcwk); background-repeat: repeat-x; background-position: top left; background-attachment: scroll; background-size:auto; -webkit-background-size:auto;-webkit-background-size:auto;-moz-background-size:auto;-o-background-size:auto;"></div>
+            <div class="site-background" style="background-color: #B8BED2; background-image: url(//i.siteapi.org/4vel0ppQv_pm47TlDMclk6ONovk=/s2.siteapi.org/1665f7d36686429/background/gj2dvffcm3cc44k8ok4kosc408wcwk); background-repeat: repeat-x; background-position: top left; background-attachment: scroll; background-size:auto; -webkit-background-size:auto;-webkit-background-size:auto;-moz-background-size:auto;-o-background-size:auto;">
             <section id="content"
                      class="js-blocks-list"
                      data-blocks-list
